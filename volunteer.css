@@ -1,0 +1,13 @@
+body {
+	/*background-color: rgba(16,80,105,.8);*/
+	font-family: arial;
+	font-size: 20px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgVCEvFdOSn9vXlSXvRwmNgsEwAWhnMaoLxCx7wHKOjN5dJ9RI&usqp=CAU);
+
+}
+div {
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+
+}
